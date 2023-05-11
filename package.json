@@ -1,6 +1,6 @@
 {
   "name": "reactstrap-formik-mvmorten",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "formik": "^2.2.9",
