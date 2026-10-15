@@ -3,7 +3,7 @@
 
 Bindings for using [Formik](https://github.com/jaredpalmer/formik) with [Reactstrap](https://reactstrap.github.io/).
 
-A maintained fork of [shoaibkhan94/reactstrap-formik](https://github.com/shoaibkhan94/reactstrap-formik) with support for React 19, current Reactstrap, and current Formik. Published on npm as `reactstrap-formik-mvmorten`.
+An updated fork of [shoaibkhan94/reactstrap-formik](https://github.com/shoaibkhan94/reactstrap-formik) with support for React 19, current Reactstrap, and current Formik. Published on npm as `reactstrap-formik-mvmorten`.
 
 [![npm version](https://img.shields.io/npm/v/reactstrap-formik-mvmorten.svg)](https://www.npmjs.com/package/reactstrap-formik-mvmorten)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
